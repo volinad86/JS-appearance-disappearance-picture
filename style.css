@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.btn{
+    padding: 1%;
+    font-size: 30px;
+}
+img{
+align-self: center;
+margin-top: 10px;
+display: none;
+}
+.btn2{
+    padding: 1%;
+    font-size: 30px;
+    display: none;
+    background-color: beige;
+}
